@@ -33,6 +33,7 @@
 .pricipal_cajas{
   width: 31%;
   height: 90%;
+ 
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -46,7 +47,7 @@
 }
 .pricipal_cajas:hover{
   background-color: #03a9f426;
-  border: .01px solid #2196f31c;
+  border: .1px solid #2196f31c;
 }
 
 .pricipal_cajas i{
