@@ -91,6 +91,7 @@ a{
 }
 .article11{
     flex-grow: 0;
+    
 }
 @media only screen and (max-width: 639px){
    .contenedor{
